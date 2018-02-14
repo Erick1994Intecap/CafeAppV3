@@ -153,12 +153,10 @@ public class TiendaDetalleFragment extends Fragment {
     }
 
     private void seleccionZona7() {
-        ubicacionesTiendas.add(new UbicacionesTienda("Hola", R.drawable.c_americano));
-        ubicacionesTiendas.add(new UbicacionesTienda("Hola", R.drawable.c_americano));
-        ubicacionesTiendas.add(new UbicacionesTienda("Hola", R.drawable.c_americano));
-        ubicacionesTiendas.add(new UbicacionesTienda("Hola", R.drawable.c_americano));
-        ubicacionesTiendas.add(new UbicacionesTienda("Hola", R.drawable.c_americano));
-        ubicacionesTiendas.add(new UbicacionesTienda("Hola", R.drawable.c_americano));
+        ubicacionesTiendas.add(new UbicacionesTienda("Hola", R.drawable.cla_citano_de_jamon));
+        ubicacionesTiendas.add(new UbicacionesTienda("Hoasdsala", R.drawable.cla_citano_de_jamon));
+        ubicacionesTiendas.add(new UbicacionesTienda("Holasdasdasda", R.drawable.cla_citano_de_jamon));
+
     }
 
     private void seleccionZona10() {
